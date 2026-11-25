@@ -1,0 +1,10 @@
+# Entorno local
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Renders de revisión visual (se regeneran con slides/render.ps1)
+slides/render/
+
+# Ficheros temporales de Office
+~$*
